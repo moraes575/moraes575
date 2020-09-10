@@ -14,5 +14,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-moraes-b07687192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Matheus Moraes LinkedIn" height="20" width="20"></a>
-  <a href="https://www.instagram.com/xmoraess/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Matheus Moraes Instagram" height="20" width="20"></a>
 </p>
