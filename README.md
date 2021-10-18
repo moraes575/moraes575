@@ -2,7 +2,7 @@
 
 ### Welcome to my profile 🙋‍♂️
 
-- 🏫 I'm currently a student in Systems Development at Etec - SP and Software Developer Intern at [ZNAP Technologies](https://znap.com.br/ "ZNAP Technologies")
+- 🏫 I'm currently a student in IT for Business at Fatec and Back-end Software Developer at [ZNAP Technologies](https://znap.com.br/ "ZNAP Technologies")
 - 🖥️ My focus is on developing back-end applications
 - 📚 I'm currently improving my skills with JavaScript, Node.js, and SQL/NoSQL Databases
 - 📫 Email: matheus.moraes111@outlook.com
